@@ -12,10 +12,12 @@ Table of contents:
 
 #### browser
 **Guide**: Playwright POC for basic React + TypeScript project
+
 https://github.com/azemetre/playwright-react-typescript-jest-example
 
 #### a11y
 **Guide**: How to use [tota11y](https://github.com/Khan/tota11y) in a React + TypeScript + Webpack project
+
 https://github.com/azemetre/tota11y-webpack-react-typescript-example
 
 ---
