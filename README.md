@@ -8,24 +8,24 @@ Table of contents:
 * [tools](#tools)
 ---
 
-### [testing](#testing)
+## [testing](#testing)
 
-#### browser
+### browser
 **Guide**: Playwright POC for basic React + TypeScript project
 
 https://github.com/azemetre/playwright-react-typescript-jest-example
 
-#### a11y
+### a11y
 **Guide**: How to use [tota11y](https://github.com/Khan/tota11y) in a React + TypeScript + Webpack project
 
 https://github.com/azemetre/tota11y-webpack-react-typescript-example
 
 ---
 
-### [libraries](#libraries)
+## [libraries](#libraries)
 
 ---
 
-### [tools](#tools)
+## [tools](#tools)
 
 ---
